@@ -26,7 +26,7 @@ By clicking one particular message on the master list, the application will show
 
 ![beer gif](code-challenge-mod-iii-round-ii.gif)
 
-## The API
+<!-- ## The API
 
 Instead of actually accessing the data from a remote API, this challenge uses a package called [json-server](https://github.com/typicode/json-server) to create a fake API for development and testing.
 
@@ -36,15 +36,15 @@ It is very easy to set-up.
 
 2 - Run  `json-server --watch db.json`
 
-That's it. You will have a server running on `localhost:3000` that serves the JSON data contained in the `db.json` file.
+That's it. You will have a server running on `localhost:3000` that serves the JSON data contained in the `db.json` file. -->
 
 *Troubleshooting: If this fails, be sure you don't already have something running on port 3000*
 
 ## Deliverables and How to Approach
 
-For this challenge, it is important to work iteratively, one feature at a time, before moving on to the next. You should **prioritize making code that works over attempting all of the deliverables.**
+For this challenge, it is important to work iteratively, one feature at a time, before moving on to the next. You should **prioritize making code that works over attempting all of the deliverables.** -->
 
-### Step 1 - Display All Beer Names
+<!-- ### Step 1 - Display All Beer Names
 
 When the page loads, I should see a list of all of the beer names retrieved from the API on the left hand side of the screen. The API endpoint we need to retrieve all the beers is a conventional RESTful route
 
